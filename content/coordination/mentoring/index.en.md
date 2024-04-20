@@ -26,7 +26,7 @@ For mentors, this is an opportunity to help to build community, learn about the 
 
 ## How the mentoring program works ⚙
 
-1. Mentors and mentees should nominate themselves for the program through [this **form**](https://docs.google.com/forms/d/1c_rnLiJAiDv1wRHfrKdWxCNpxk51WEyQGS-cllVWJfI/edit?usp=sharing). 
+1. Mentors and mentees should nominate themselves for the program through [this **form**](https://rladies.org/form/mentoring-signup/). 
 2. Mentors and mentees will be contacted by **someone from the R-Ladies global team. This person will serve as their point of contact throughout the program**, and will make the initial introductions.
 3. In order to maintain low-pressure engagement, we strongly recommend that the mentee, mentor, and R-Ladies global team member mutually arrive at a consensus on the mode and frequency of communication through the program. Ideally, this should be decided before the program officially starts. 
 4. The mentoring program is considered **concluded** in the following circumstances
